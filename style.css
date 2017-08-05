@@ -1,9 +1,9 @@
 .bg-red{ background: #bc2636; }
 .bg-white{ background: #ffffff; }
 .center { text-align: center; }
-.color-white { color: #ffffff; }
+.color-white { color: #ffffff;font-size: 16px; }
 .color-black { color: black; }
-.title-contain{ font-size: 36px; padding-top:80px; padding-bottom: 80px; font-weight: bold;  }
+.title-contain{ font-size: 2.25em; padding-top:80px; padding-bottom: 80px; font-weight: bold;  }
 
 .content-main {
    padding-bottom: 140px;
@@ -27,7 +27,7 @@
     border: 2px solid #ffffff; 
     background: #bc2636; 
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5em;
     color: white;
     line-height: normal;
     padding-top: 40px;
